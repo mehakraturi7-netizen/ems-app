@@ -4,6 +4,9 @@ A modern, high-density, and premium Employee Record Management System built with
 
 ![EMS Preview](https://via.placeholder.com/1200x600/0a0a0a/ffffff?text=Employee+Management+System+Preview)
 
+### 🌐 Live Demo
+**[ems-app-git-main-ems-app.vercel.app](https://ems-app-git-main-ems-app.vercel.app)**
+
 ## 🚀 Key Features
 
 -   **Admin-Only Access**: Secure role-based login system for HR and Administrators.
