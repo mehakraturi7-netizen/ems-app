@@ -1,5 +1,5 @@
 import React from 'react';
-import { UserService } from '../../../../backend/modules/users/service';
+import { UserService } from '../../backend/modules/users/service';
 import { Users, ShieldCheck } from 'lucide-react';
 import EmployeeTable from '../../components/EmployeeTable';
 

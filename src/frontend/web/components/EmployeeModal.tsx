@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import { X, Loader2, Save } from 'lucide-react';
 import { createClient } from '../lib/supabase';
-import { EmployeeProfile } from '../../../backend/modules/users/types';
+import { EmployeeProfile } from '../backend/modules/users/types';
 
 interface EmployeeModalProps {
   isOpen: boolean;

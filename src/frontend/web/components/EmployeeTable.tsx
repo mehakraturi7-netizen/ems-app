@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Search, Edit2, Trash2, User, Plus, Download } from 'lucide-react';
-import { EmployeeProfile } from '../../../backend/modules/users/types';
+import { EmployeeProfile } from '../backend/modules/users/types';
 import { createClient } from '../lib/supabase';
 import EmployeeModal from './EmployeeModal';
 
