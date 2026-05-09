@@ -22,5 +22,18 @@ We used the most modern and "premium" technologies to build this:
 - **Real-time Stats**: The "Total Staff" counter updates automatically.
 - **Secure**: Only you (the Admin) can manage the records thanks to Row Level Security (RLS).
 
----
-**Great job on completing this project, Mehak! It's now production-ready and fully secure.**
+## 💻 How to run this project locally
+To run this project on your own computer, just follow these simple steps:
+
+1. **Get the Code**: Download or clone the project from GitHub.
+2. **Environment Variables**: **Crucial Step!** Make sure you have a `.env` file inside the **main folder** (root) with your Supabase keys. You can copy the format from `.env.example`.
+3. **Install Dependencies**: Open your terminal and run:
+   ```bash
+   npm install
+   ```
+4. **Start the Server**: Run the following command:
+   ```bash
+   npm run dev
+   ```
+5. **Open the App**: Go to `http://localhost:3000` in your browser.
+
