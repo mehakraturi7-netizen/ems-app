@@ -1,4 +1,4 @@
-# Employee Management System (EMS)
+# Employee Management System (EMS) 
 
 A modern, high-density, and premium Employee Record Management System built with **Next.js 14**, **Supabase**, and **Tailwind CSS**. This system is designed for HR and Admin users to efficiently manage employee records with a sleek, dark-themed interface.
 
