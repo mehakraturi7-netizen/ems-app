@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev src/frontend/web",
-    "build": "next build src/frontend/web",
-    "start": "next start src/frontend/web",
+    "build": "cd src/frontend/web && next build",
+    "start": "cd src/frontend/web && next start",
     "lint": "next lint src/frontend/web"
   },
   "dependencies": {
